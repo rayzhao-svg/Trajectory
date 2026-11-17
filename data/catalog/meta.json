@@ -1,0 +1,46 @@
+{
+  "catalogYear": "2026-2027",
+  "courseCount": 1016,
+  "aliasCount": 731,
+  "creditStatus": {
+    "omitted-defaulted-to-one": 760,
+    "printed-zero-defaulted-to-one": 214,
+    "half-term-module": 6,
+    "printed": 36
+  },
+  "subjects": [
+    "AMTH",
+    "BENG",
+    "BIOL",
+    "CB&B",
+    "CBIO",
+    "CHEM",
+    "CPSC",
+    "ECON",
+    "ENAS",
+    "ENGL",
+    "EP&E",
+    "EPS",
+    "GLBL",
+    "HIST",
+    "HSAR",
+    "HUMS",
+    "MATH",
+    "MB&B",
+    "MCDB",
+    "NSCI",
+    "PHIL",
+    "PHYS",
+    "PLSC",
+    "PSYC",
+    "S&DS",
+    "SOCY",
+    "SPAN"
+  ],
+  "creditPolicy": "Explicit printed credits (1/2, 1 1/2, 2) are kept. Yale states that most courses carry one credit and that variations are noted. When a 2026\u20132027 course page prints '0 Course cr' or omits the credit, Trajectory stores 1.0 and marks creditStatus. BIOL modules whose descriptions say they meet for half a term are stored as 0.5.",
+  "listingKey": {
+    "asterisk": "YCPS key: a star marks a limited-enrollment seminar. The 2026\u20132027 pages also star some standard lectures; the marker is preserved, not treated as cancellation.",
+    "brackets": "YCPS key: a bracketed course is not offered in the current catalog year but is expected the succeeding year.",
+    "a or b": "Fall and spring listings of the same course."
+  }
+}
