@@ -4,6 +4,14 @@ Trajectory is a four-year academic and career planner for Yale College. A studen
 
 Recommendations come from curated paths grounded in the **Yale College Programs of Study 2026–2027**. A deterministic engine, not the language model, places courses and decides whether a plan is feasible. If `OPENAI_API_KEY` is set, a model may later be used to phrase a rationale; it cannot add a course code that is not in the catalog. Without a key, the app runs entirely on the verified catalog and the built-in paths.
 
+## Demo video
+
+[![Trajectory demo](docs/screenshots/thumbnail.jpg)](https://github.com/rayzhao-svg/Trajectory/raw/main/docs/demo/trajectory-demo.mp4)
+
+The demo is 60 seconds, 1080p H.264. It opens with the authentic 6:19 PM screen recording, sped up, showing the prompt and Grok editing the scheduler. The rest is the running app: the consulting roadmap and eight-semester schedule, the intermediate-microeconomics explanation, the swap from ECON 2251 to ECON 2224, and a new quantitative-finance plan.
+
+The uncut 19-second recording, re-encoded but not sped up, is [authentic-session.mp4](https://github.com/rayzhao-svg/Trajectory/raw/main/docs/demo/authentic-session.mp4).
+
 ## Screenshots
 
 ![Landing page](docs/screenshots/landing.png)
