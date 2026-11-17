@@ -6,11 +6,11 @@ Recommendations come from curated paths grounded in the **Yale College Programs 
 
 ## Demo video
 
-[![Trajectory demo](docs/screenshots/thumbnail.jpg)](https://github.com/rayzhao-svg/Trajectory/releases/download/v0.1.0-demo/trajectory-demo.mp4)
+[![Trajectory demo](docs/screenshots/thumbnail.jpg)](https://github.com/rayzhao-svg/Trajectory/raw/planner/docs/demo/trajectory-demo.mp4)
 
 The demo is 3 minutes and 9 seconds, 1080p H.264. Part 1 opens with the only authentic screen recording of the Grok session: 19 seconds captured at 6:19 PM on 17 November 2026, with the still portion sped up. That clip shows the prompt and edits to the catalog parser and the scheduler. It does not show the test run or the commit. The labeled walkthrough after it is the repository's real commits and `npm test`, not a reconstruction of the chat. Part 2 is a Playwright recording of the running app: the consulting roadmap, the Global Affairs alternative, the eight semesters, a course explanation, a swap from ECON 2251 to ECON 2224, clubs and self-study, then a new quantitative-finance plan that is saved and reopened.
 
-The uncut 19-second recording, re-encoded but not sped up, is [authentic-session.mp4](https://github.com/rayzhao-svg/Trajectory/releases/download/v0.1.0-demo/authentic-session.mp4).
+The uncut 19-second recording, re-encoded but not sped up, is [authentic-session.mp4](https://github.com/rayzhao-svg/Trajectory/raw/planner/docs/demo/authentic-session.mp4).
 
 ## Screenshots
 
