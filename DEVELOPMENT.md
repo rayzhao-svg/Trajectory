@@ -23,4 +23,8 @@ The scheduler and the major checklists were written against those records. Prere
 
 The Next.js app, SQLite storage, PDF export, and the timeline were added. The API was exercised for all five goals, a move, a swap, completion, course search, and PDF. The browser was used to open the quantitative-finance plan, the requirements tracker, a course description, and the completed-course control. Screenshots in `docs/screenshots/` are from that local dev server.
 
-Deployment was not attempted. There is no hosting credential in the environment.
+Deployment of the app was not attempted. There is no hosting credential for the web app.
+
+## 17 November 2026, about 18:35–18:50 ET
+
+A 19-second screen recording from 6:19 PM is the only authentic capture of the Grok session. It shows the prompt and edits to `build_catalog.py` and `engine.ts`. It does not show tests or the commit. The published demo uses that clip, sped up where the screen is still, then a labeled walkthrough of the real commits and test output, then a Playwright recording of the running app. The edited file is `trajectory-demo.mp4` (1080p, H.264, about 3:09). The uncut recording is published separately as `authentic-session.mp4`.
