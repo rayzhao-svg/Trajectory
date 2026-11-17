@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+data/raw
+data/plans.sqlite
+data/plans.sqlite-*
+.DS_Store
+.env
+.env.local
