@@ -8,7 +8,7 @@ Recommendations come from curated paths grounded in the **Yale College Programs 
 
 [![Trajectory demo](docs/screenshots/thumbnail.jpg)](https://github.com/rayzhao-svg/Trajectory/raw/main/docs/demo/trajectory-demo.mp4)
 
-The demo is 60 seconds, 1080p H.264. It opens with the authentic 6:19 PM screen recording, sped up, showing the prompt and Grok editing the scheduler. The rest is the running app: the consulting roadmap and eight-semester schedule, the intermediate-microeconomics explanation, the swap from ECON 2251 to ECON 2224, and a new quantitative-finance plan.
+The demo is 52 seconds, 1080p H.264. It opens with the authentic 6:19 PM screen recording, sped up, showing the prompt and Grok editing the scheduler. The rest is a production recording of the app: a consulting plan (Economics, B.A.), the major rationale, requirements, a Global Affairs alternative, the eight-semester schedule, the intermediate microeconomics catalog entry, a swap from ECON 2251 to ECON 2224, marking that course completed, Yale clubs and self-study, a second quantitative-finance plan, and the saved consulting roadmap reopened.
 
 The uncut 19-second recording, re-encoded but not sped up, is [authentic-session.mp4](https://github.com/rayzhao-svg/Trajectory/raw/main/docs/demo/authentic-session.mp4).
 
